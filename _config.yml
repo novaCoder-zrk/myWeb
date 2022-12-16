@@ -103,7 +103,9 @@ theme: ayer
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: https://github.com/novaCoder-zrk/love-page.git
+  branch: main
 
 # Hexo-generator-search
 search:
