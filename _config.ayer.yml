@@ -22,14 +22,14 @@ subtitle:
   showCursor: true # 是否显示光标
 
 # 网站图标和侧边栏logo
-favicon: /images/love.svg #/favicon.ico
-logo: /images/love.svg
+favicon: /love-page/images/love.svg #/favicon.ico
+logo: /love-page/images/love.svg
 
 # 封面配置
 # enable-是否启用封面；path-封面背景图；logo-封面logo
 cover:
   enable: true
-  path: /images/love_bg2.jpg # /source/images目录下附送多张美图，可更换
+  path:  /love-page/images/love_bg2.jpg # /source/images目录下附送多张美图，可更换
   logo: false #/images/love.svg #，如果不要直接设置成false
 
 # 页面顶部进度条
@@ -97,7 +97,7 @@ search: true
 
 # RSS订阅(先安装hexo-generator-feed插件，再去博客根目录config进行配置)
 # 不想显示可以直接留空
-rss: /atom.xml
+rss:  /love-page/atom.xml
 
 # 是否启用黑夜模式开关
 darkmode: true
@@ -108,7 +108,7 @@ canvas_bg: 1
 # 自定义鼠标样式，直接替换/images/mouse.cur文件
 mouse:
   enable: false
-  path: /images/mouse.cur
+  path:  /love-page/images/mouse.cur
 
 # 鼠标点击效果：0-关闭，1-爱心，2-爆炸烟花，3-粒子烟花
 click_effect: 1

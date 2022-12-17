@@ -3,11 +3,11 @@
   <title>嘉怡</title>
   
   
-  <link href="https://loving.github.io/atom.xml" rel="self"/>
+  <link href="https://novacoder-zrk.github.io/love-page/atom.xml" rel="self"/>
   
-  <link href="https://loving.github.io/"/>
+  <link href="https://novacoder-zrk.github.io/love-page/"/>
   <updated>2022-12-05T09:55:34.437Z</updated>
-  <id>https://loving.github.io/</id>
+  <id>https://novacoder-zrk.github.io/love-page/</id>
   
   <author>
     <name>Rongkai Zhang</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>First post</title>
-    <link href="https://loving.github.io/2022/12/05/First-post/"/>
-    <id>https://loving.github.io/2022/12/05/First-post/</id>
+    <link href="https://novacoder-zrk.github.io/love-page/2022/12/05/First-post/"/>
+    <id>https://novacoder-zrk.github.io/love-page/2022/12/05/First-post/</id>
     <published>2022-12-05T09:34:10.000Z</published>
     <updated>2022-12-05T09:55:34.437Z</updated>
     
@@ -35,19 +35,19 @@
     
     
     
-    <category term="Diary" scheme="https://loving.github.io/categories/Diary/"/>
+    <category term="Diary" scheme="https://novacoder-zrk.github.io/love-page/categories/Diary/"/>
     
     
-    <category term="PS3" scheme="https://loving.github.io/tags/PS3/"/>
+    <category term="PS3" scheme="https://novacoder-zrk.github.io/love-page/tags/PS3/"/>
     
-    <category term="Games" scheme="https://loving.github.io/tags/Games/"/>
+    <category term="Games" scheme="https://novacoder-zrk.github.io/love-page/tags/Games/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://loving.github.io/2022/12/05/hello-world/"/>
-    <id>https://loving.github.io/2022/12/05/hello-world/</id>
+    <link href="https://novacoder-zrk.github.io/love-page/2022/12/05/hello-world/"/>
+    <id>https://novacoder-zrk.github.io/love-page/2022/12/05/hello-world/</id>
     <published>2022-12-05T08:57:27.722Z</published>
     <updated>2022-12-05T09:41:38.736Z</updated>
     
