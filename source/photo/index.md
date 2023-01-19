@@ -24,6 +24,7 @@ albums: [
        ["/assets/微信图片_2022121613182918.jpg","img_caption17"],
        ["/assets/微信图片_2022121613182921.jpg","img_caption18"],
        ["/assets/微信图片_2022121613182920.jpg","img_caption19"],
+       ["/assets/微信图片_2022121613182922.jpg","img_caption19"],
         ]
 ---
 
