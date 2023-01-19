@@ -7,7 +7,7 @@ albums: [
        ["/assets/微信图片_20221216131829.jpg","img_caption"],
        ["/assets/微信图片_202212161318291.jpg","img_caption1"],
        ["/assets/微信图片_202212161318292.jpg","img_caption2"],
-       ["/assets/微信图片_202212161318293.jpg","img_caption3"],
+       ["/assets/微信图片_20230119132323.jpg","img_caption3"],
        ["/assets/微信图片_202212161318294.jpg","img_caption4"],
        ["/assets/微信图片_202212161318295.jpg","img_caption5"],
        ["/assets/微信图片_202212161318296.jpg","img_caption6"],
@@ -20,11 +20,10 @@ albums: [
        ["/assets/微信图片_2022121613182913.jpg","img_caption13"],
        ["/assets/微信图片_2022121613182914.jpg","img_caption14"],
        ["/assets/微信图片_2022121613182915.jpg","img_caption15"],
-       ["/assets/微信图片_2022121613182916.jpg","img_caption16"],
-       ["/assets/微信图片_2022121613182917.jpg","img_caption17"],
-       ["/assets/微信图片_2022121613182918.jpg","img_caption18"],
-       ["/assets/微信图片_2022121613182919.jpg","img_caption19"],
-       ["/assets/微信图片_2022121613182920.jpg","img_caption20"],
+       ["/assets/微信图片_2022121613182917.jpg","img_caption16"],
+       ["/assets/微信图片_2022121613182918.jpg","img_caption17"],
+       ["/assets/微信图片_2022121613182921.jpg","img_caption18"],
+       ["/assets/微信图片_2022121613182920.jpg","img_caption19"],
         ]
 ---
 
