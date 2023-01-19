@@ -3,7 +3,7 @@ layout: photo
 title: 相册
 date: 2022-12-05 17:37:45
 albums: [
-        ["/assets/jjy20221206.png","jjy"],
+        ["/assets/jjy1674105122.jpg","jjy"],
        ["/assets/微信图片_20221216131829.jpg","img_caption"],
        ["/assets/微信图片_202212161318291.jpg","img_caption1"],
        ["/assets/微信图片_202212161318292.jpg","img_caption2"],
