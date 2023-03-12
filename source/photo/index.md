@@ -27,5 +27,10 @@ albums: [
        ["/assets/微信图片_2022121613182922.jpg","img_caption20"],
        ["/assets/微信图片_20230214223034.jpg","img_caption21"],
        ["/assets/微信图片_20230214223431.jpg","img_caption22"],
+       ["/assets/IMG_20230306_113120.jpg","jjy说是美女与保镖"],
+       ["/assets/506AF855FB12BB753388741DF906976E.jpg","晚上在兴隆山"],
+       ["/assets/3972AAE5205DDA8508FA5374A3D594C0.jpg","游趵突泉"],
+       ["/assets/4AC8DF1B82DA18C9F0D7F5B5F313C318.jpg","晚上在兴隆山 戴小柿子耳夹的jjy"],
+       ["/assets/C76B6C8BC06858DA911C7C82237551B4.jpg","曲水亭街一角"],
         ]
 ---
